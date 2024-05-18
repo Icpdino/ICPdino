@@ -124,7 +124,7 @@ function showGameOver() {
   ctx.fillStyle = "grey";
   const x = canvas.width / 4.5;
   const y = canvas.height / 2;
-  ctx.fillText("GAME OVER", x, y);
+  ctx.fillText("ICPDINO OVER", x, y);
 }
 
 function setupGameReset() {
